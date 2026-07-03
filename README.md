@@ -4,23 +4,23 @@
 
 🚀 Interesado en:
 
-Desarrollo Web
-Bases de Datos
-Desarrollo Frontend
-Arquitectura de Software
+- Desarrollo Web
+- Bases de Datos
+- Desarrollo Frontend
+- Arquitectura de Software
 
 📚 Tecnologías que utilizo:
 
-HTML
-CSS
-JavaScript
-TypeScript
-React
-Angular
-MySQL
-PostgreSQL
-Git
-Tailwind CSS
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Angular
+- MySQL
+- PostgreSQL
+- Git
+- Tailwind CSS
 
 ⚡ Dato curioso:
 A veces paso más tiempo personalizando el diseño de una aplicación que programando sus funcionalidades.
@@ -31,7 +31,7 @@ A veces paso más tiempo personalizando el diseño de una aplicación que progra
 
 🎵 Escuchando música
 
-📚 Leyendo novelas
+📚 Leyendo 
 
 📺 Viendo series
 
