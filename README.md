@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**Ada-HE/Ada-HE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Egresado de Ingeniería en Desarrollo y Gestión de Software
 
-Here are some ideas to get you started:
+🚀 Interesado en:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desarrollo Web
+Bases de Datos
+Desarrollo Frontend
+Arquitectura de Software
+
+📚 Tecnologías que utilizo:
+
+HTML
+CSS
+JavaScript
+TypeScript
+React
+Angular
+MySQL
+PostgreSQL
+Git
+Tailwind CSS
+
+⚡ Dato curioso:
+A veces paso más tiempo personalizando el diseño de una aplicación que programando sus funcionalidades.
+
+### 🧑‍💻 Cuando no estoy programando...
+
+🎮 Jugando videojuegos
+
+🎵 Escuchando música
+
+📚 Leyendo novelas
+
+📺 Viendo series
+
